@@ -15,7 +15,7 @@
         Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.ggbandAdapter:Gutils:-SNAPSHOT'
+	       compile 'com.github.ggbandAdapter:Gutils:v1.0'
 	}
 
     
